@@ -1,15 +1,15 @@
 {
   "main.css": "/kijudgs/static/css/main.448a944c.chunk.css",
-  "main.js": "/kijudgs/static/js/main.3811a8e9.chunk.js",
-  "main.js.map": "/kijudgs/static/js/main.3811a8e9.chunk.js.map",
+  "main.js": "/kijudgs/static/js/main.d519418a.chunk.js",
+  "main.js.map": "/kijudgs/static/js/main.d519418a.chunk.js.map",
   "static/css/1.81f6140b.chunk.css": "/kijudgs/static/css/1.81f6140b.chunk.css",
   "static/js/1.ea411d30.chunk.js": "/kijudgs/static/js/1.ea411d30.chunk.js",
   "static/js/1.ea411d30.chunk.js.map": "/kijudgs/static/js/1.ea411d30.chunk.js.map",
   "runtime~main.js": "/kijudgs/static/js/runtime~main.13844fc7.js",
   "runtime~main.js.map": "/kijudgs/static/js/runtime~main.13844fc7.js.map",
-  "static/css/1.81f6140b.chunk.css.map": "/kijudgs/static/css/1.81f6140b.chunk.css.map",
   "static/css/main.448a944c.chunk.css.map": "/kijudgs/static/css/main.448a944c.chunk.css.map",
+  "static/css/1.81f6140b.chunk.css.map": "/kijudgs/static/css/1.81f6140b.chunk.css.map",
   "index.html": "/kijudgs/index.html",
-  "precache-manifest.b997ce88d721d0323dcf242dfe990acf.js": "/kijudgs/precache-manifest.b997ce88d721d0323dcf242dfe990acf.js",
+  "precache-manifest.edb102ba83fd0d0be01d20af02528cb3.js": "/kijudgs/precache-manifest.edb102ba83fd0d0be01d20af02528cb3.js",
   "service-worker.js": "/kijudgs/service-worker.js"
 }
